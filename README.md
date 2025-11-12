@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kohl-nine-56.vercel.app/](https://portfolio-kohl-nine-56.vercel.app/)
 
-- 💬 Ask me about **Full Stack Development, AI/ML projects, Cloud **
+- 💬 Ask me about **Full Stack Development, AI/ML projects, Cloud**
 
 - 📫 How to reach me **shubham.avhad222@gmail.com**
 
