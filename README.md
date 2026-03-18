@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubham</h1>
 <h3 align="center">Full Stack Software Engineer / AI Engineer based in Washington, DC</h3>
 
-- 🌱 I’m currently learning **Artificial Intelligence and Machine Learning, focusing on building real-world AI applications and mastering foundational algorithms.**
+- 🌱 Specializing in AI/ML integration, LLM-driven agents, and full-stack automation.**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kohl-nine-56.vercel.app/](https://portfolio-kohl-nine-56.vercel.app/)
 
