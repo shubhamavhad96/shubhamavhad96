@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubham</h1>
 <h3 align="center">Full Stack Software Engineer / AI Engineer based in Washington, DC</h3>
 
-- 🌱 Specializing in AI/ML integration, LLM-driven agents, and full-stack automation.**
+- 🌱 Specializing in AI/ML integration, LLM-driven agents, and full-stack automation.
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kohl-nine-56.vercel.app/](https://portfolio-kohl-nine-56.vercel.app/)
 
