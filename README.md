@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shubham Avhad</h1>
+<h1 align="center">Hi, I'm Shubham</h1>
 <h3 align="center">Passionate Software Engineer & AI/ML Enthusiast based in Washington, DC</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning, focusing on building real-world AI applications and mastering foundational algorithms.**
