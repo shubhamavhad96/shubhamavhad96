@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shubham</h1>
-<h3 align="center">Passionate Software Engineer & AI/ML Enthusiast based in Washington, DC</h3>
+<h3 align="center">Full Stack Software Engineer / AI Engineer based in Washington, DC</h3>
 
 - 🌱 I’m currently learning **Artificial Intelligence and Machine Learning, focusing on building real-world AI applications and mastering foundational algorithms.**
 
